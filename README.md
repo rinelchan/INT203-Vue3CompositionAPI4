@@ -3,5 +3,5 @@
 **Created by Nutwara Boonyangkongkaew (ID: 63130500035)**
 
 ### 🍣 Self-learning: <br>
-1. [xxx](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) <br>
+1. [Vue.js เบื้องต้น | KongRuksiam Official](https://www.youtube.com/playlist?list=PLltVQYLz1BMChEqnYgn9PoTnbOXdJX7Wc) <br>
 
