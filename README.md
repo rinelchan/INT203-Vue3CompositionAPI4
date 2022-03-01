@@ -9,7 +9,7 @@
           + Install Tailwind CSS (test-install-css) <br>
           + Reactivity Object Form Bindings (reactivity-variable) 
 - Week 4: Class Style Bindings (basic-dynamic-style)
-- Week 5: Exam # 1 Answer (bingo-sheet)
+- Week 5: Exam #1 Answer (bingo-sheet)
 - Week 6: Basic Components (basic-comp)
 - Week 7:
 - Week 8:
