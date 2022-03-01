@@ -7,7 +7,7 @@
 - Week 2: Template Syntax (templete-syntax)
 - Week 3: Function Destructuring [review] 
           + Install Tailwind CSS (test-install-css) <br>
-          + Reactivity Object Form Bindings (reactivity-variable)
+          + Reactivity Object Form Bindings (reactivity-variable) <br>
 - Week 4: Class Style Bindings (basic-dynamic-style)
 - Week 5: Exam # 1 Answer (bingo-sheet)
 - Week 6: Basic Components (basic-comp)
