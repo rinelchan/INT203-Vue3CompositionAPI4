@@ -11,8 +11,9 @@
 - Week 4: Class Style Bindings (basic-dynamic-style)
 - Week 5: Exam #1 Answer (bingo-sheet)
 - Week 6: Basic Components (basic-comp)
-- Week 7:
-- Week 8:
+- Week 7: Lifecycle Hooks (basic-life-cycle) <br>
+          + practice (comp-prac-sol)
+- Week 8: Fetch API (basic-fetch-notes)
 - Week 9:
 - Week 10:
 - Week 11:
