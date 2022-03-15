@@ -13,7 +13,7 @@
 - Week 6: Basic Components (basic-comp)
 - Week 7: Lifecycle Hooks (basic-life-cycle) <br>
           + practice (comp-prac-sol)
-- Week 8:
+- Week 8: Fetch API (basic-fetch-notes)
 - Week 9:
 - Week 10:
 - Week 11:
