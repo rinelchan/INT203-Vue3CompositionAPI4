@@ -14,7 +14,7 @@
 - Week 7: Lifecycle Hooks (basic-life-cycle) <br>
           + practice (comp-prac-sol)
 - Week 8: Fetch API (basic-fetch-notes)
-- Week 9:
+- Week 9: Vue Router (basic-router)
 - Week 10:
 - Week 11:
 - Week 12:
