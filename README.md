@@ -15,6 +15,5 @@
           + practice (comp-prac-sol)
 - Week 8: Fetch API (basic-fetch-notes)
 - Week 9: Vue Router (basic-router) + image handling (test-build-image)
-- Week 10:
-- Week 11:
-- Week 12:
+- Week 10: Basic State Management (basic-state-counter)
+
